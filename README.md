@@ -6,4 +6,4 @@
 *contact
 # live site
 * My profile
-* 
+*  https://efjayvincenttrinidad-collab.github.io/efjay-trinidad-portfolio/
